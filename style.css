@@ -1,0 +1,11 @@
+body{
+    background-image: url(pexels-jacub-gomez-1142950.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: aqua;
+    font-size: 60px;
+    text-transform: uppercase;
+    text-align: center;
+}
